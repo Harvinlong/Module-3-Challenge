@@ -149,7 +149,7 @@ with open(file_to_save, "w") as txt_file:
             winning_count = votes
             winning_candidate = candidate_name
             winning_percentage = vote_percentage
-            print(winning_count)
+           
         
     # Print the winning candidate (to terminal)
     winning_candidate_summary = (
