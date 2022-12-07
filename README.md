@@ -1,4 +1,4 @@
-# Module-3-Challenge
+Pypoll with Python
 The purpose of election audit analysis is to clearfy that the relationship between the votes of different counties. It could be use to calculate the diversity of aproval rate of each candidates.
 369,711 votes were casted in the congressional election
 # number of votes and the percentage of total votes for each county
